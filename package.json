@@ -1,0 +1,22 @@
+{
+  "name": "@sidthebeard/timestamp",
+  "version": "1.0.0",
+  "description": "Free Code Camp Timestamp Microservice Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidTheBeard/fcc-timestamp.git"
+  },
+  "author": "Sidney Jacques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidTheBeard/fcc-timestamp/issues"
+  },
+  "homepage": "https://github.com/SidTheBeard/fcc-timestamp#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
